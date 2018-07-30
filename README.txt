@@ -1,4 +1,4 @@
-Book Recommendation and Intelligence Engine (B.R.I.E.) - README FILE
+Book Recommendation and Intelligence Engine (B.R.I.E.)
 
 This text file contains a general overview of BRIE's codebase denoting which parts of the codebase contain what functionalities
 
