@@ -1,4 +1,5 @@
 Book Recommendation and Intelligence Engine (B.R.I.E.)
+Developed as a part of Big Data coursework at SFU by Lakshayy Dua, Sethuraman Annamalai and Supreet Kaur Takkar
 
 This text file contains a general overview of BRIE's codebase denoting which parts of the codebase contain what functionalities
 
